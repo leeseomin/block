@@ -26,6 +26,10 @@
 ### Block 7  
   
    <img src="https://github.com/leeseomin/block/blob/main/block/BLCOK%207.png" width="2000">
+   
+### Block 8   
+   
+    <img src="https://github.com/leeseomin/block/blob/main/block/BLCOK_8B.png" width="2000">
   
  
  ### You can purchase these artworks from the following NFT marketplace 
