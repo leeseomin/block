@@ -15,3 +15,16 @@
  
  
 ### Block 4
+
+ <img src="https://github.com/leeseomin/block/blob/main/block/BLOCK%204.png" width="2000">
+ 
+ 
+ 
+ ### You can purchase from the following marketplace
+ 
+ https://rarible.com/leeseomin
+ 
+ 
+ ### Author and Creator
+ 
+ LEE SEOMIN
