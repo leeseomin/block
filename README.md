@@ -20,7 +20,7 @@
  
  
  
- ### You can purchase from the following marketplace
+ ### You can purchase these artworks from the following NFT marketplace 
  
  https://rarible.com/leeseomin
  
