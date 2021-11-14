@@ -11,7 +11,8 @@
 
 
 ### Block 3
-https://github.com/leeseomin/block/blob/main/block/block9_21A.png 
+ <img src="https://github.com/leeseomin/block/blob/main/block/block9_21A.png " width="2000">
+ 
  
 ### Block 4
 
