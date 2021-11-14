@@ -22,6 +22,13 @@ https://github.com/leeseomin/block/blob/main/block/block9_21A.png
 
   <img src="https://github.com/leeseomin/block/blob/main/block/BLOCK5.png" width="2000">
   
+  
+### Block 6
+
+  <img src="https://github.com/leeseomin/block/blob/main/block/block6.mp4" width="2000">
+
+  
+  
 ### Block 7  
   
    <img src="https://github.com/leeseomin/block/blob/main/block/BLCOK%207.png" width="2000">
