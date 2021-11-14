@@ -51,6 +51,9 @@ https://github.com/leeseomin/block/blob/main/block/block9_21A.png
 ### Block 15 
  <img src="https://github.com/leeseomin/block/blob/main/block/BLOCK15.png" width="2000"> 
  
+### Block 16
+ <img src="https://github.com/leeseomin/block/blob/main/block/block16.png" width="2000">  
+ 
  ### You can purchase these artworks from the following NFT marketplace 
  
  https://rarible.com/leeseomin
