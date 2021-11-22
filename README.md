@@ -79,6 +79,12 @@
  ### Block 28
  <img src="https://github.com/leeseomin/block/blob/main/block/28.png" width="2000">    
  
+ ### Block 28A
+ <img src="https://github.com/leeseomin/block/blob/main/block/block28a_3k.png" width="2000">  
+ 
+ 
+ 
+ 
  ### You can purchase these artworks from the following NFT marketplace 
  
  https://rarible.com/leeseomin
