@@ -63,6 +63,7 @@
 
 ### Block 12
  <img src="https://github.com/leeseomin/block/blob/main/block/12.png" width="2000">
+ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687167 
  <br/><br/>
  
 ### Block 12
