@@ -97,10 +97,12 @@
  
  ### Block 28
  <img src="https://github.com/leeseomin/block/blob/main/block/28.png" width="2000">    
+ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687182?tab=details 
  <br/><br/>
  
  ### Block 28A
  <img src="https://github.com/leeseomin/block/blob/main/block/block28a_3k.png" width="2000">  
+ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687183 
  <br/><br/>
  
 ### Block 30
