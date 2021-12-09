@@ -144,3 +144,7 @@ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457
  ### Author and Creator
  
  LEE SEOMIN
+ 
+ https://github.com/leeseomin 
+ https://twitter.com/Techne_0_1
+ 
