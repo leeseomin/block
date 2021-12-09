@@ -90,6 +90,7 @@ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457
  
 ### Block 16
  <img src="https://github.com/leeseomin/block/blob/main/block/block16.png" width="2000">  
+ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687169 
  <br/><br/>
  
 ### Block 17
@@ -99,6 +100,7 @@ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457
  
 ### Block 18
  <img src="https://github.com/leeseomin/block/blob/main/block/18.png" width="2000">    
+ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687172?tab=details 
  <br/><br/>
 
 ### Block 19
