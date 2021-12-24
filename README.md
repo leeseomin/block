@@ -114,7 +114,7 @@ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457
  <br/><br/>
  
 ### Block 23 : my soul
- <img src="https://github.com/leeseomin/block/blob/main/block/block23h.png" width="2000">    
+ <img src="https://github.com/leeseomin/block/blob/main/block/block23x.png" width="2000">    
 
  <br/><br/>
  
