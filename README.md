@@ -149,12 +149,12 @@ https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457
  
  ### Block 32
  <img src="https://github.com/leeseomin/block/blob/main/block/32h.png" width="2000">    
-
+https://rarible.com/token/0xc9154424B823b10579895cCBE442d41b9Abd96Ed:64669575457772622843733520472986026667877001999885492881277833910229705687049?tab=details
  <br/><br/>
  
   ### Block 33
  <img src="https://github.com/leeseomin/block/blob/main/block/33h.png" width="2000">    
-
+https://rarible.com/token/0xc9154424B823b10579895cCBE442d41b9Abd96Ed:64669575457772622843733520472986026667877001999885492881277833910229705687050?tab=details
  <br/><br/>
  
  
